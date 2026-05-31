@@ -1,0 +1,6 @@
+{
+  "name": "Aura Player",
+  "description": "Sleek music player with dynamic island playback control.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
